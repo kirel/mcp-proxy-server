@@ -8,6 +8,7 @@
   "type": "module",
   "bin": {
     "mcp-proxy-server": "./build/index.js"
+    "mcp-proxy-sse-server": "./build/sse.js"
   },
   "files": [
     "build"

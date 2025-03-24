@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { SSEServerTransport } from "@modelcontextprotocol/sdk/server/sse.js";
 import express from "express";
 import { createServer } from "./mcp-proxy.js";
